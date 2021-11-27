@@ -1,0 +1,23 @@
+.alignleft {
+    padding-bottom: 25px;
+    float: left;
+    font-size: 50px;
+    }
+.alignright {
+    float: right;
+    text-decoration: underline;
+    font-size: 25px;
+    }
+h1 {
+    background-color: red;
+    background-size: cover;
+    color: white;
+    padding: 55px;
+}
+h2 {
+    background-color: rgb(46, 21, 1);
+    background-size: cover;
+    padding: 25px;
+    color: white;
+
+}
